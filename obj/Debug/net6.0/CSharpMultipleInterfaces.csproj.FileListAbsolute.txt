@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\bin\Debug\net6.0\CSharpMultipleInterfaces.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\bin\Debug\net6.0\CSharpMultipleInterfaces.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\bin\Debug\net6.0\CSharpMultipleInterfaces.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\bin\Debug\net6.0\CSharpMultipleInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\bin\Debug\net6.0\CSharpMultipleInterfaces.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\refint\CSharpMultipleInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\CSharpMultipleInterfaces.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpMultipleInterfaces\obj\Debug\net6.0\ref\CSharpMultipleInterfaces.dll
